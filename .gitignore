@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 model.pkl
+data/synthetic_fraud_data_generator.py
